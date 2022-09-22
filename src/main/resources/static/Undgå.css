@@ -40,4 +40,12 @@
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 
-body{background-image: url("undgå_madSpild.jfif")}
+body{background-image: url("MadspildDK.png");
+    background-repeat: repeat-x;
+    background-position: 0% -70%;
+    background-size: 2500px;
+
+
+
+
+}
